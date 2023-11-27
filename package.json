@@ -19,5 +19,8 @@
   "homepage": "https://github.com/kitamuraDev/zenn-content#readme",
   "dependencies": {
     "zenn-cli": "^0.1.149"
+  },
+  "volta": {
+    "node": "20.9.0"
   }
 }
